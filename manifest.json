@@ -1,0 +1,29 @@
+{
+  "name": "Cek Khodam",
+  "short_name": "Cek Khodam",
+  "description": "Aplikasi untuk mengecek khodam secara seru dan menghibur.",
+  "start_url": "/Cek_Khodam/",
+  "scope": "/Cek_Khodam/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#111111",
+  "background_color": "#111111",
+  "icons": [
+    {
+      "src": "/Cek_Khodam/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Cek_Khodam/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/Cek_Khodam/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
